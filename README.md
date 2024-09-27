@@ -1,34 +1,34 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6cc77ae-71d3-40d4-834a-905a5f79651b" width="500"/>
+  <img src="ImageFolder/bread.gif" width="800" height="200" />
 </p>
 
 <h1 align="center">Hello!👋 My name is Gabriela!</h1>
 
 
-
+<div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/5dbab45a-23cb-4f2c-b8f9-f5e64c2beda3" alt="GIF" width="500"/>
+      <img src="ImageFolder/CatGif.gif" alt="Cat Gif" width="400" height="500" >
     </td>
     <td>
-      <h1>About Me</h1>
-          - 💞️ 3rd Year Computer Science Student at UH
-      
-          - 🔨 Projects I'm working on...
-          
-            - a Full-Stack Volunteering Website!
-            - a 2D Video Game!
-            - a Convulitional Neural Network!
-            
-          - 🌱 I’m currently learning ...
-          - 📫 How to reach me ...
-          - ⚡ Fun fact: I love art and animation as well! 
-    
+    <div style="margin-left: 100px; text-align: left;">
+      <h2>About Me</h2>
+      <ul>
+        <li>💞️ 3rd Year Computer Science Student at UH</li>
+        <li>🔨 Projects I'm working on...</li>
+        <ul>
+          <li> a Full-Stack Volunteering Website!</li>
+          <li> a Convulitional Neural Network!</li>
+          <li> 📚 Working on Unity and full-stack projects</li>
+        </ul>
+        <li>⚡ Fun fact: I love art and animation as well!</li>
+      </ul>
+    </div>
+    </td>
   </tr>
 </table>
-
----
+</div>
 
 
 ## Technologies I know:
