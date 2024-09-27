@@ -16,13 +16,18 @@
       <h2>About Me</h2>
       <ul>
         <li>💞️ 3rd Year Computer Science Student at UH</li>
-        <li>🔨 Projects I'm working on...</li>
-        <ul>
-          <li> a Full-Stack Volunteering Website!</li>
-          <li> a Convolutional Neural Network!</li>
-          <li> a 2D game! </li>
-        </ul>
+        <li>📚 Minoring in Data Science</li>
         <li>⚡ Fun fact: I love art and animation as well!</li>
+      </ul>
+      <h2>Projects</h2>
+      <ul>
+        <li>🔨 In progress...</li> 
+        <br>
+        <ul>
+          <li> 🌍 a Full-Stack Volunteering Website!</li>
+          <li> 🧠 a Convolutional Neural Network!</li>
+          <li> 🎮 a 2D game! </li>
+        </ul>
       </ul>
     </div>
     </td>
