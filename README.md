@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ImageFolder/bread.gif" width="800" height="200" />
+  <img src="ImageFolder/bread.gif" width="800"  />
 </p>
 
 <h1 align="center">Hello!👋 My name is Gabriela!</h1>
@@ -19,8 +19,8 @@
         <li>🔨 Projects I'm working on...</li>
         <ul>
           <li> a Full-Stack Volunteering Website!</li>
-          <li> a Convulitional Neural Network!</li>
-          <li> 📚 Working on Unity and full-stack projects</li>
+          <li> a Convolutional Neural Network!</li>
+          <li> a 2D game! </li>
         </ul>
         <li>⚡ Fun fact: I love art and animation as well!</li>
       </ul>
