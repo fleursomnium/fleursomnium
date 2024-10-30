@@ -32,6 +32,7 @@
             <li>🎮 A 2D game!</li>
           </ul>
         </div>
+        Note: Not all repos will be available for public viewing for school purposes!
       </td>
     </tr>
   </table>
