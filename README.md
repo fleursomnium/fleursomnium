@@ -24,7 +24,7 @@
             <li>
               🌍 Full-Stack Volunteering Website!
               <ul>
-                <li><a href="https://github.com/angieluvss/volunteer-fullstack" target="_blank">Front-end</a></li>
+                <li><a href="https://github.com/fleursomnium/Volunteer-frontend" target="_blank">Front-end</a></li>
                 <li><a href="https://github.com/fleursomnium/Volunteer-Backend" target="_blank">Back-end</a></li>
               </ul>
             </li>
